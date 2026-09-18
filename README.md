@@ -7,7 +7,7 @@ Repositório dedicado ao desenvolvimento, melhorias e customizações de rotinas
 ## ⚙️ Configuração do Ambiente de Desenvolvimento
 
 * **TOTVS Developer Studio (TDS):** Instalação e configuração do ambiente de desenvolvimento integrado, com apontamento direto para o servidor de homologação da matriz.
-* **Controlo de Versão:** Clonagem do repositório padrão de fontes do Protheus através do Git da empresa e configuração estruturada do workspace local.
+* **Controle de Versão:** Clonagem do repositório padrão de fontes do Protheus através do Git da empresa e configuração estruturada do workspace local.
 * **Gestão de Fontes Customizados:** Garantia de acesso e governança sobre os fontes customizados utilizando o padrão de prefixos da rede (ex: rotinas específicas e pontos de entrada).
 
 ---
